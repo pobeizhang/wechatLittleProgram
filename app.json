@@ -1,0 +1,13 @@
+{
+    "pages": [
+      "pages/welcome/welcome"
+    ],
+    "window": {
+      "navigationBarBackgroundColor": "#B3D4DB",
+      "navigationBarTextStyle": "black",
+      "navigationBarTitleText": "杜磊的第一个小程序",
+      "backgroundColor": "#eeeeee",
+      "backgroundTextStyle": "light",
+      "enablePullDownRefresh": false
+    }
+}

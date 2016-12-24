@@ -1,0 +1,7 @@
+<view class="container">
+    <image class="user-avatar" src="/images/avator.jpg"></image>
+    <text class="user-name">Hello jack_du</text>
+    <view class="button-box">
+        <text class="button">开启你的旅程吧!</text>
+    </view>
+</view>
